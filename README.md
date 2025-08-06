@@ -55,7 +55,8 @@ Obesity_Prediction/
 
 - GradientBoostingClassifier
 
-🧪 Evaluation Metrics
+
+## 🧪 Evaluation Metrics
 - **Accuracy Score**
 
 ## 🧠 Key Learnings
