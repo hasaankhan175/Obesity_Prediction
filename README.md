@@ -76,6 +76,9 @@ Obesity_Prediction/
 
 # **🧑‍💻 Author**
 **Hasaan Khan**
+
 📧 hasaankhan175@gmail.com
+
 🔗 GitHub: github.com/hasaankhan175
+
 📍 Karachi, Pakistan
